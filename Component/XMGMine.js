@@ -16,7 +16,7 @@ class Mine extends Component<{}> {
     render() {
         return (
             <View style={styles.container}>
-                <Text>SDJSLDJSL</Text>
+                <Text>我的</Text>
             </View>
         );
     }

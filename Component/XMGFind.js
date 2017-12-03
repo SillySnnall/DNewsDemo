@@ -16,7 +16,7 @@ class Find extends Component<{}> {
     render() {
         return (
             <View style={styles.container}>
-                <Text>SDJSLDJSL</Text>
+                <Text>发现</Text>
             </View>
         );
     }

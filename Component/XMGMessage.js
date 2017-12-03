@@ -16,7 +16,7 @@ class Message extends Component<{}> {
     render() {
         return (
             <View style={styles.container}>
-                <Text>SDJSLDJSL</Text>
+                <Text>消息</Text>
             </View>
         );
     }
